@@ -10,6 +10,6 @@ public class HelloController {
 
     @GetMapping
     public String hello(){
-        return "Caio e xandão gay";
+        return "Thiago e Luidi são 2 viadões";
     }
 }
