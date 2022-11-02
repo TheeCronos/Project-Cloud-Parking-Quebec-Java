@@ -1,4 +1,4 @@
-# Project-Quebec-Java
+# Projecto Cloud Parking - Quebec Java
 
 Objetivo: </br>
 Construir uma API para controle de um estacionamento de veículos. Esta API deverá controlar entrada e saída de veículos.</br>
